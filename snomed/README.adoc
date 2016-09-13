@@ -1,0 +1,7 @@
+﻿= SNOMED in Norway 
+
+== Background 
+Norway will test SNOMED-CT. First we would like to check the terms related to anatomical location and structure. 
+In this directory there is an Excel sheet which maps the Norweigan codeset Volven-8352. This is used to define antatomical locations in the laboratory domain. 
+The Excel sheet builds up the mapping to SNOMED-CT terms. 
+
