@@ -1,7 +1,7 @@
 {
     "documents": [ 
     {
-        "format": 0,
+        "format": "0",
         "title": "Brev til pasient",
         "date": "2020.02.18",
         "author": "Thor Stenbæk",
@@ -333,126 +333,126 @@ ffffffffffffffffffffffffffffffff52006f006f007400200045006e0074007200790000000000
 0000000000000000000000000000000000000000000000000105000000000000)>)>"
     },
     {
-        "format": 20,
+        "format": "20",
         "title": "Epikrise",
         "date": "2011.11.09",
         "author": "Linn Brandt",
         "content": "### Epikrise\nA49.9 Bakterieinfeksjon C43.5 Malignt melanom, flere lokalisasjoner N19 Nyresvikt Z51.5 Palliativ behandling\n\nPasient med langtkomment malignt melanom, innlegges grunnet redusert allmenntilstand og feber. Man mistenker infeksjon, muligens etter et gammelt sår hvor det i september var innlagt plauradren som det da gikk infeksjon i. Vi har funn av gule stafylokokker i sårsekretet, samme som sist gang. Hun ble behandet med cloxacillin og Gentamycin, med god effekt av behandlingen. Satt på Bactrim før utreise, skal ha dette i 2 uker. Transfundert med blod 2 ganger under oppholdet grunnet kjent kronisk anemi. Hb 10.3 ved utreise, stabilt økende. Hun ble jevnlig tilsett palliativt team under oppholdet grunnet kvalme.\n\nHun reiser til eget hjem for palliativ behandling i regi av kommunen, dette etter eget ønske.\n\n ### Medikamenter:\nSimvastatin 20mg x1 vesp\nLaktulose 15ml x2\nParacet 1gr x4\nBactrim 2tbl x2 i 2 uker"
     },
     {
-        "format": 20,
+        "format": "20",
         "title": "Journalnotat",
         "date": "2011.11.06",
         "author": "Linn Brandt",
         "content": "CRP fallende(56), kont.Bactrim. Planlegger utreise over helga, har fått ergoterapivurdering. Hb økende i dag (9.6), ktr. til imorgen"
     },
     {
-        "format": 20,
+        "format": "20",
         "title": "Tilsynsrapport palliativt team",
         "date": "2011.11.06",
         "author": "Linn Brandt",
         "content": "Pasienten er fri fra sin kvalme, og har ingen smerter. Energirik mat anbefales, nå som hun begynner å komme seg. Økt matlyst rapporteres også av pleiere. Tilsyn pånytt over helgen."
     },
     {
-        "format": 20,
+        "format": "20",
         "title": "Rtg. thorax",
         "date": "2011.11.03",
         "author": "Linn Brandt",
         "content": "Som ved undersøkelse 18/10 - 12 er det normale hjerte- og lungeforhold"
     },
     {
-        "format": 20,
+        "format": "20",
         "title": "Journalnotat",
         "date": "2011.11.02",
         "author": "Linn Brandt",
         "content": "Smerter i ve.albue (kjent metastase).Tilsett av palliativt team, forsøker Nordspan plaster. Synkende CRP siste dagene til 87, men nå plutselig febril 38.5. Tar nye blodprøver, inkl blodkultur. Bestiller rtg.thorax + u - stix/dyrkning. Bløt og uøm i abdomen. Ikke økt kvalme, ingen nytilkommen hoste eller dyspne. Det ble startet opp med bactrim igår. Tar nye blodprøver tas i morgen. Hun ønsker seg ikke tilbake til sykehjemmet der hun var før innleggelse, og vi planlegger derfor, i samråd med pasient og pårørende, utreise til hjemmet. Hvis hun blir verre iløpet av helgen må man vurdere å sette tilbake i.v antibiotika"
     },
     {
-        "format": 20,
+        "format": "20",
         "title": "Tilsynsrapport kir avd",
         "date": "2011.11.02",
         "author": "Linn Brandt",
         "content": "Spørsmål om dren kan fjernes.\nSåret ser tørt og reaksjonsløst ut. Det er inget blod i bandasjene, kun litt blank sårvæske. Fjerner begge drenene og legger inn aquacel da dette er mykere og ikke gror fast på samme måten. Dekker deretter såret med sterile kompresser, mesorb og tegaderm. Sårskift annenhver dag etter vanlig prosedyre."
     },
     {
-        "format": 20,
+        "format": "20",
         "title": "Journalnotat",
         "date": "2011.10.30",
         "author": "Linn Brandt",
         "content": "Stabil Hb etter siste transfusjon. Ikke gjennomblødninger av bandasjen, som ble lagt på igår. Føler seg i bedre form enn dagen før. Rekv lab til imorgen. Afebril."
     },
     {
-        "format": 20,
+        "format": "20",
         "title": "Journalnotat",
         "date": "2011.10.29",
         "author": "Linn Brandt",
         "content": "Planlagt utreise idag, men det har nå oppstått en rel. kraftig blødning i pusslommen som ble revidert igår. Trombocytter 7, får derfor trombocyttkonsentrat, plasma og blod grunnet fallende Hb til 7,9. Observeres tett neste døgnet. Det er gitt beskjed til påtroppende vaktteam."
     },
     {
-        "format": 20,
+        "format": "20",
         "title": "Tilsynsnotat kir.avd",
         "date": "2011.10.28",
         "author": "Linn Brandt",
         "content": "Pasient med pancytopeni og neutropen feber. Det skal være en infeksjon i forbindelse med et gammelt plauraden. Ønskes tilsyn gr.funn av mulig pusslomme ved UL, og ingen klar bedring ved i.v antibiotika. Jeg fjerner den gamle bandasjen som ligger i såret. Det er sparsomt med koagler. Minimal indurasjon, men noe rødme, rundt såret, jeg setter litt lokalbedøvelse og spriker opp. Får godt innsyn i sårlommen, ser godt med grovev. Tar en bakt.us, men det tømmer seg ikke noe særlig med puss. Skyller godt. Legger inn 2 flate dren, disse får ligge i 3 dager og man får skylle godt dagelig. Skulle man ikke få sanert infeksjonen ordentlig, får man bedt om et nytt tilsyn, men pr.nå ser det ikke ut til at vi får gjort mer kirurgisk."
     },
     {
-        "format": 20,
+        "format": "20",
         "title": "Journalnotat",
         "date": "2011.10.28",
         "author": "Linn Brandt",
         "content": "Se tidligere notater\n\nUL plauradren: kanskje det er en lomme med puss og skyllevæske\n\nForts.pancytopen, slapp, kvalm og uvel.\n\nVi fortsetter med cloxacillin og Genta til hun ikke lengere er neutropen og vasker også dran - såret hver vakt. Vi legger til kaleorid fordi hypokalemi.\n\nPga kvalmen forsøker vi med Afipran fast, etter å ha snakket med palliativt team."
     },
     {
-        "format": 20,
+        "format": "20",
         "title": "Journalnotat",
         "date": "2011.10.28",
         "author": "Linn Brandt",
         "content": "Pasienten har nok en nøytropen infeksjon. Fått oppvekst av staph.aureus i 1 flaske fra sekret i et gammelt plauradren - sår som det tidligere har vært infeksjon i. Det er bestilt UL mtp abscess / pusslomme, og dette skulle være mulig å få utført idag. Ellers i relativt grei form, men nøytropen(0, 4)  og trombocyttopen(5, uten blødning). Fikk 2 SAG blodtransfusjon igår.\n\nFortsetter med uendret antibiotikaregime(cloxacillin og gentamycin). Staph.aureus i sårsekret er sensitivt for dicloxacillin, men endrer foreløpig ikke antibiotika - regime grunnet alvorlig tilstand med mange mulige infeksjons - fokus. Nye prøver imorgen"
     },
     {
-        "format": 20,
+        "format": "20",
         "title": "UL - thorax UL//TH",
         "date": "2011.10.28",
         "author": "Linn Brandt",
         "content": "Svarende til tidligere plauradren - lokalisasjon i nedre høyre thorax finner man en struktur som har største diameter 2cm, blandet ekkogent og nesten ekkotomt innhold forenelig med en blanding av skyllevann og puss. Den pussfylte delen har størst diameter 11 mm"
     },
     {
-        "format": 20,
+        "format": "20",
         "title": "Journalnotat",
         "date": "2011.10.27",
         "author": "Linn Brandt",
         "content": "Se tidl.\n\nInnlagt med infeksjon, er neutropen. Har blitt satt på cloxacillin 2g x4 og Gentamycin 420mg\n\n\n\nIdag tp. 39.2, frostrier, hostet gulgrønt slim.Alikvel er hun i ganske god alm.tilstand.\n\nBT: ingen dynamikk\n\ncor / puls / hud: u.a\n\n\n\nTar nye blodprøver, blodkultur og gjør ingen endringer til fastsatt antibiotika på dette tidspunktet."
     },
     {
-        "format": 20,
+        "format": "20",
         "title": "Journalnotat",
         "date": "2011.10.26",
         "author": "Linn Brandt",
         "content": "Afebril, men har redusert AT. Hun ble satt på Gentamycin og Cloxacillin ved innkomst. Det har blitt oppvekst i 1 av 4 blodkulturer. Finner ingen sikre bakterier(eller sopp) i denne, blodkulturen sendes til videre utredning.\n\nGjennomfører beskyttende isolasjon gr.nøytrofile < 0,5. Mistenker staffylokokksykdom.\n\n\n\nHar blodplater på 7, ingen blødning.Ingen transfusjon"
     },
     {
-        "format": 20,
+        "format": "20",
         "title": "Journalnotat",
         "date": "2011.10.25",
         "author": "Linn Brandt",
         "content": "Pas.var rundt september innlagt med sepsis med gule stafylokokker, fokus sannsynlig i plauradren(plauravæske gr.metastaser), som da ble fjernet. Har bodd hjemme siden da, klart seg greit ved hjelp av hjemmesykepleie. Innlagt igår høyfebril, satt på antibiotika mtp eventuell re-infeksjon, sår - bakt tatt. CRP 37 ved innkomst, nøytrofile 0, 7. Kontroll av prøver til imorgen.\n\nHun fikk 2 SAG ved innkomst og føler seg mye bedre allerede. Hun virker å være i ganske god alm.tilstand tross situasjonen. Gjør ingen endring av påbegynt behandling. Den følger resistensmønsteret fra bakt tatt i september."
     },
     {
-        "format": 20,
+        "format": "20",
         "title": "Vaktnotat",
         "date": "2011.10.24",
         "author": "Linn Brandt",
         "content": "Pasient med anemi og neutropeni, hadde en komplisert infeksjon i september(oppvekst i bl.kult, ekspektorat, urin og sårsekret etter innlagt dren).\n\nHun kommer nå inn etter å ha hatt feber siste dagene, også svettetokter. Har målt temperatur så høy som 39.5. Nå afebril, men virker varm.\n\nSer til drenssåret som fortsatt ikke har grodd skikkelig, men det er byttet jevnlig av hjemmesykepleier, og har ifølge pas. og medbrakt legeskriv blitt betydelig bedre.\n\nMå nesten mistenke samme utgangspunkt som sist, starter derfor med cloxacillin og genta(etter sist resistensundersøkelser).Gr. trombocytemi og anemi blir det ikke aktuelt med kirurgisk intervensjon nå. Tatt bl.kult, prøver av sår, nese, urin(neg) og rtg thorax(ser ingenting nytt).\n\nSelv om BT, puls, resp.frekv, temperatur og hun er tørr og varm, mistenker jeg alikevel sepsis / bacteremi."
     },
     {
-        "format": 20,
+        "format": "20",
         "title": "Rtg. thorax",
         "date": "2011.10.24",
         "author": "Linn Brandt",
         "content": "Rg/TH//\n\nIngen tegn til nytilkomne fortetninger(multipple metastaser som virker uendret fra september) eller plauravæske. Normalt stort hjerte."
     },
     {
-        "format": 20,
+        "format": "20",
         "title": "Innkomstjournal",
         "date": "2011.10.24",
         "author": "Linn Brandt",
